@@ -1,0 +1,1160 @@
+fileFormatVersion: 2
+guid: 2be6d454f286ba649bd64446ac387589
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6810311740679090027
+    second: pandaMotionSpriteSheet_0
+  - first:
+      213: -3277026230996122823
+    second: pandaMotionSpriteSheet_1
+  - first:
+      213: 2494493863925130004
+    second: pandaMotionSpriteSheet_2
+  - first:
+      213: 5559652393850706509
+    second: pandaMotionSpriteSheet_3
+  - first:
+      213: 7921715861784467522
+    second: pandaMotionSpriteSheet_4
+  - first:
+      213: -6548632469184157819
+    second: pandaMotionSpriteSheet_5
+  - first:
+      213: -7825263803090535397
+    second: pandaMotionSpriteSheet_6
+  - first:
+      213: -2769333909195173847
+    second: pandaMotionSpriteSheet_7
+  - first:
+      213: -3155954717311015958
+    second: pandaMotionSpriteSheet_8
+  - first:
+      213: 6481091986095484416
+    second: pandaMotionSpriteSheet_9
+  - first:
+      213: 1295104354514076819
+    second: pandaMotionSpriteSheet_10
+  - first:
+      213: 8660562314544489546
+    second: pandaMotionSpriteSheet_11
+  - first:
+      213: 3346112834743705147
+    second: pandaMotionSpriteSheet_12
+  - first:
+      213: -8817242472842501810
+    second: pandaMotionSpriteSheet_13
+  - first:
+      213: 5735317954054384312
+    second: pandaMotionSpriteSheet_14
+  - first:
+      213: -6180523374198147716
+    second: pandaMotionSpriteSheet_15
+  - first:
+      213: 5486612224159400512
+    second: pandaMotionSpriteSheet_16
+  - first:
+      213: -1295783194886981762
+    second: pandaMotionSpriteSheet_17
+  - first:
+      213: 3201309763856277606
+    second: pandaMotionSpriteSheet_18
+  - first:
+      213: 1657245736792879818
+    second: pandaMotionSpriteSheet_19
+  - first:
+      213: 867847732286177138
+    second: pandaMotionSpriteSheet_20
+  - first:
+      213: 8057732515226405845
+    second: pandaMotionSpriteSheet_21
+  - first:
+      213: 8737755526912809818
+    second: pandaMotionSpriteSheet_22
+  - first:
+      213: 8587316050269708897
+    second: pandaMotionSpriteSheet_23
+  - first:
+      213: -6717406623469664205
+    second: pandaMotionSpriteSheet_24
+  - first:
+      213: -4862908723207311791
+    second: pandaMotionSpriteSheet_25
+  - first:
+      213: 6061373491859299417
+    second: pandaMotionSpriteSheet_26
+  - first:
+      213: 2208893162954492176
+    second: pandaMotionSpriteSheet_27
+  - first:
+      213: -2872816347243384820
+    second: pandaMotionSpriteSheet_28
+  - first:
+      213: -6826101886517191414
+    second: pandaMotionSpriteSheet_29
+  - first:
+      213: -6368428188453107404
+    second: pandaMotionSpriteSheet_30
+  - first:
+      213: -4859485814341860186
+    second: pandaMotionSpriteSheet_31
+  - first:
+      213: -7700419952690692058
+    second: pandaMotionSpriteSheet_32
+  - first:
+      213: -6296070479007991063
+    second: pandaMotionSpriteSheet_33
+  - first:
+      213: -2694852742656243566
+    second: pandaMotionSpriteSheet_34
+  - first:
+      213: -7314070017222676605
+    second: pandaMotionSpriteSheet_35
+  - first:
+      213: -2086663946018650911
+    second: pandaMotionSpriteSheet_36
+  - first:
+      213: 6962989709693669808
+    second: pandaMotionSpriteSheet_37
+  - first:
+      213: 3703149279954726111
+    second: pandaMotionSpriteSheet_38
+  - first:
+      213: -2788305365925152290
+    second: pandaMotionSpriteSheet_39
+  - first:
+      213: -6362748422894597954
+    second: pandaMotionSpriteSheet_40
+  - first:
+      213: -126641390746482237
+    second: pandaMotionSpriteSheet_41
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590962fed89ec71a0800000000000000
+      internalID: -6810311740679090027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933c6dd510aa582d0800000000000000
+      internalID: -3277026230996122823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41326ade3f83e9220800000000000000
+      internalID: 2494493863925130004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a1f1a556ad72d40800000000000000
+      internalID: 5559652393850706509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2489d31fa969fed60800000000000000
+      internalID: 7921715861784467522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58760b527759e15a0800000000000000
+      internalID: -6548632469184157819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cf017f704176390800000000000000
+      internalID: -7825263803090535397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9205afd6b795199d0800000000000000
+      internalID: -2769333909195173847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae36573d7ebc334d0800000000000000
+      internalID: -3155954717311015958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e2ad3b2d671f950800000000000000
+      internalID: 6481091986095484416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948fd57c8229f110800000000000000
+      internalID: 1295104354514076819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442f891a8f703870800000000000000
+      internalID: 8660562314544489546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e164d05e7cf6e20800000000000000
+      internalID: 3346112834743705147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416cbbcfacd2a580800000000000000
+      internalID: -8817242472842501810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae45dca41f79f40800000000000000
+      internalID: 5735317954054384312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75bbeaacbe5a3aa0800000000000000
+      internalID: -6180523374198147716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0424651afbc542c40800000000000000
+      internalID: 5486612224159400512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7737d2bc04740ee0800000000000000
+      internalID: -1295783194886981762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660a4aad4465d6c20800000000000000
+      internalID: 3201309763856277606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2f1179738bff610800000000000000
+      internalID: 1657245736792879818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fbb0a1ae63b0c00800000000000000
+      internalID: 867847732286177138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db4f29e701d2df60800000000000000
+      internalID: 8057732515226405845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b18db6b5eb24970800000000000000
+      internalID: 8737755526912809818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162265e33764c2770800000000000000
+      internalID: 8587316050269708897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3380c3c244af6c2a0800000000000000
+      internalID: -6717406623469664205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e6412f74a738cb0800000000000000
+      internalID: -4862908723207311791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c1e3983135e1450800000000000000
+      internalID: 6061373491859299417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01901b4e0a097ae10800000000000000
+      internalID: 2208893162954492176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c007f95c0c4b128d0800000000000000
+      internalID: -2872816347243384820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd48d1080d441a0800000000000000
+      internalID: -6826101886517191414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4390ba1dd4cce97a0800000000000000
+      internalID: -6368428188453107404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48a150663af8cb0800000000000000
+      internalID: -4859485814341860186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6208a820adc922590800000000000000
+      internalID: -7700419952690692058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eab7e1e14ddf98a0800000000000000
+      internalID: -6296070479007991063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ccff55b5f99ad0800000000000000
+      internalID: -2694852742656243566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f6b1922143f7a90800000000000000
+      internalID: -7314070017222676605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e481fb523eaa03e0800000000000000
+      internalID: -2086663946018650911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1ddfcdf3281a060800000000000000
+      internalID: 6962989709693669808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdce1f566aa346330800000000000000
+      internalID: 3703149279954726111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed937b2fa03fd49d0800000000000000
+      internalID: -2788305365925152290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8c03a450af2b7a0800000000000000
+      internalID: -6362748422894597954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pandaMotionSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c1ba73541e3ef0800000000000000
+      internalID: -126641390746482237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pandaMotionSpriteSheet_5: -6548632469184157819
+      pandaMotionSpriteSheet_15: -6180523374198147716
+      pandaMotionSpriteSheet_30: -6368428188453107404
+      pandaMotionSpriteSheet_4: 7921715861784467522
+      pandaMotionSpriteSheet_35: -7314070017222676605
+      pandaMotionSpriteSheet_36: -2086663946018650911
+      pandaMotionSpriteSheet_9: 6481091986095484416
+      pandaMotionSpriteSheet_2: 2494493863925130004
+      pandaMotionSpriteSheet_41: -126641390746482237
+      pandaMotionSpriteSheet_23: 8587316050269708897
+      pandaMotionSpriteSheet_11: 8660562314544489546
+      pandaMotionSpriteSheet_1: -3277026230996122823
+      pandaMotionSpriteSheet_33: -6296070479007991063
+      pandaMotionSpriteSheet_16: 5486612224159400512
+      pandaMotionSpriteSheet_37: 6962989709693669808
+      pandaMotionSpriteSheet_18: 3201309763856277606
+      pandaMotionSpriteSheet_29: -6826101886517191414
+      pandaMotionSpriteSheet_20: 867847732286177138
+      pandaMotionSpriteSheet_26: 6061373491859299417
+      pandaMotionSpriteSheet_13: -8817242472842501810
+      pandaMotionSpriteSheet_12: 3346112834743705147
+      pandaMotionSpriteSheet_19: 1657245736792879818
+      pandaMotionSpriteSheet_6: -7825263803090535397
+      pandaMotionSpriteSheet_22: 8737755526912809818
+      pandaMotionSpriteSheet_17: -1295783194886981762
+      pandaMotionSpriteSheet_32: -7700419952690692058
+      pandaMotionSpriteSheet_7: -2769333909195173847
+      pandaMotionSpriteSheet_24: -6717406623469664205
+      pandaMotionSpriteSheet_0: -6810311740679090027
+      pandaMotionSpriteSheet_28: -2872816347243384820
+      pandaMotionSpriteSheet_10: 1295104354514076819
+      pandaMotionSpriteSheet_3: 5559652393850706509
+      pandaMotionSpriteSheet_31: -4859485814341860186
+      pandaMotionSpriteSheet_38: 3703149279954726111
+      pandaMotionSpriteSheet_39: -2788305365925152290
+      pandaMotionSpriteSheet_21: 8057732515226405845
+      pandaMotionSpriteSheet_34: -2694852742656243566
+      pandaMotionSpriteSheet_40: -6362748422894597954
+      pandaMotionSpriteSheet_8: -3155954717311015958
+      pandaMotionSpriteSheet_14: 5735317954054384312
+      pandaMotionSpriteSheet_25: -4862908723207311791
+      pandaMotionSpriteSheet_27: 2208893162954492176
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
